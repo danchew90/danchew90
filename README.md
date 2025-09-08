@@ -102,30 +102,6 @@ GM 코리아 전자 계약 시스템을 이용하는 카매니저용 애플리�
 - **주요 업무**: 스마트 농장 데이터 인터랙티브 어드민 페이지 개발, 농장 원격 관리 기능 구현
 - **Tech Stack**: `Java` `JSP` `MariaDB`
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=radical&hide_border=true)
-
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
-
-</div>
-
-## 📈 Activity Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&custom_title=Contribution%20Graph&bg_color=0D1117&color=7C3AED&line=7C3AED&point=7C3AED&area=true&hide_border=true)](https://github.com/yourusername)
-
 ## 🎯 Specialization
 
 - **🔗 웹-앱 간 통신**: React Native InjectJavaScript를 활용한 하이브리드 앱 개발
